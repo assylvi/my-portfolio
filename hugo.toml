@@ -1,0 +1,8 @@
+baseURL = "https://yourname.vercel.app/"
+languageCode = "en-us"
+title = "Your Name"
+theme = "hugo-neso"
+
+[module]
+  [[module.imports]]
+    path = "github.com/babeneso/hugo-neso" 
